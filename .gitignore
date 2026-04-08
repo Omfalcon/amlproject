@@ -1,0 +1,93 @@
+# =========================
+# 🔹 Python (Backend)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+logs/
+*.log
+
+# SQLite / DB
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# =========================
+# 🔹 ML Models & Data (IMPORTANT)
+# =========================
+models/
+datasets/
+
+# Optional (if large)
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# =========================
+# 🔹 Node / React (Frontend)
+# =========================
+node_modules/
+dist/
+build/
+.next/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# =========================
+# 🔹 PyCharm / IDE
+# =========================
+.idea/
+*.iml
+
+# VS Code (optional)
+.vscode/
+
+# =========================
+# 🔹 OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔹 Docker
+# =========================
+*.pid
+*.seed
+*.out
+
+# =========================
+# 🔹 Testing / Coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# 🔹 Misc
+# =========================
+*.swp
+*.swo
