@@ -35,12 +35,6 @@ logs/
 models/
 datasets/
 
-# Optional (if large)
-*.pt
-*.pth
-*.pkl
-*.h5
-
 # =========================
 # 🔹 Node / React (Frontend)
 # =========================
